@@ -1,0 +1,17 @@
+# Core Dependencies
+streamlit==1.31.0
+pandas==2.2.0
+numpy==1.26.3
+
+# Search Engines
+elasticsearch==8.12.0
+qdrant-client==1.7.3
+
+# Embeddings & AI
+openai==1.12.0
+deepeval==0.21.20
+
+# Utilities
+python-dotenv==1.0.1
+psutil==5.9.8
+plotly==5.18.0
