@@ -93,6 +93,10 @@ The dashboard will open in your browser at `http://localhost:8501`
 
 ## 📊 Dashboard Features
 
+![Dashboard Preview](https://github.com/user-attachments/assets/de658239-cb8c-4cfc-8c92-2ccca0c4cc51)
+
+The interactive dashboard provides comprehensive insights into search performance and costs:
+
 ### 1. Leaderboard
 View which search method provides the best accuracy-per-dollar ratio:
 - Elasticsearch (Keyword)
